@@ -4,11 +4,11 @@
 body{
     text-align: center;
     color: deeppink;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(231, 231, 231);
 }
 header{
     width: 100%;
-    background: rgb(0, 0, 230);
+    background: rgb(0, 0, 0);
     color: white;
     text-align: left;
     padding-top: 20px;
