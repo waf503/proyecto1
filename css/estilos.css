@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+body{
+    text-align: center;
+    color: deeppink;
+    background-color: beige;
+}
+header{
+    padding-top: 20px;
+}
